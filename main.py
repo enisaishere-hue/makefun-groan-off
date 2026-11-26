@@ -23,6 +23,8 @@ import sys
 
 LINE = "I used to hate facial hair, but then it grew on me."
 
+# Verified by running main.py: entry.txt holds this 51-character line
+# plus one trailing newline (52 bytes), inside the bounty gate of 1..140.
 MAX_CHARS = 140
 
 
